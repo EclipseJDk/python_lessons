@@ -1,4 +1,4 @@
 #!/usr/bin/python3
 
-list = []
-print('hello')
+list = ["coffee", "tea", "water"]
+print(list)
